@@ -68,5 +68,3 @@ Dataset Size: 5200 rows × 12 columns
 
 - 📊 ##**Project Presentation:** [Movie Analysis Presentation](Movies Analytics.pptx)
 - 📈 ##**Dashboard File:** [Power BI Dashboard] (Movies Analysis Dashboard.pbix)
-
-Dhruv Sikarwar
