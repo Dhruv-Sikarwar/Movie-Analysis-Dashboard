@@ -66,7 +66,7 @@ Source: Kaggle
 Dataset Size: 5200 rows × 12 columns
 ## 📂 Additional Resources
 
-- 📊 ##**Project Presentation:** (Movies Analytics.pptx)
-- 📈 ##**Dashboard File:** Power BI Dashboard (.pbix)
+- 📊 ##**Project Presentation:** [Movie Analysis Presentation](Movies Analytics.pptx)
+- 📈 ##**Dashboard File:** [Power BI Dashboard] (Movies Analysis Dashboard.pbix)
 
 Dhruv Sikarwar
