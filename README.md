@@ -1,11 +1,14 @@
-🎬 Movie Industry Analysis Dashboard
-📊 Project Overview
+# 🎬 Movie Industry Analysis Dashboard
+<br>
+# 📊 Project Overview
 
 This project analyzes movie industry data to identify factors influencing box office success. The analysis focuses on understanding the relationship between genres, directors, ratings, budgets, and box-office collections to help movie production houses make better investment decisions.
 
 The dataset contains movie records from 2016–2020 with over 5200 rows and 12 columns, including information such as title, genre, budget, box office revenue, director, and release date.
 
-🎯 Problem Statement
+<br>
+
+## 🎯 Problem Statement
 
 A movie production house wants to determine:
 
@@ -15,7 +18,9 @@ A movie production house wants to determine:
 
 The relationship between movie budget and revenue
 
-🎯 Project Goals :-
+<br>
+
+## 🎯 Project Goals :-
 
 1.) Perform data cleaning and standardization to ensure accurate analysis.
 
@@ -23,7 +28,9 @@ The relationship between movie budget and revenue
 
 3.) Generate data-driven insights and recommendations for future movie investments.
 
-🧹 Data Cleaning & Preprocessing :-
+<br>
+
+## 🧹 Data Cleaning & Preprocessing :-
 
 The following preprocessing steps were performed:
 
@@ -39,32 +46,39 @@ Created new columns:
 * Profit
 * Profit_Status
 
-📈 Key Insights :-
-Genre Analysis
+<br>
 
+## 📈 Key Insights :-
+### Genre Analysis
 ~ Action, Thriller, and Romance genres generate higher profits.
 ~ Drama movies, despite good ratings, generate comparatively lower revenue.
 ~ Director Analysis
 ~ Emily Stone is the most profitable director based on total profit generated.
 ~ She has directed 842 movies, primarily in the Action genre, which shows high profitability.
 
-💡 Recommendations :-
+<br>
+
+## 💡 Recommendations :-
 
 -- Production houses should focus on high-performing genres like Action and Thriller.
 -- Collaborating with experienced directors with strong revenue history can increase profitability.
 -- Strategic budget allocation based on genre performance can improve ROI for future films.
 
-🛠 Tools & Technologies :-
+<br>
 
-Python ( Numpy,Pandas,Matplotlib / Seaborn)
-Power BI
-Data Cleaning & Exploratory Data Analysis
+## 🛠 Tools & Technologies :-
 
-📁 Dataset
+- Python ( Numpy,Pandas,Matplotlib / Seaborn)
+- Power BI
+- Data Cleaning & Exploratory Data Analysis
+
+<br>
+
+## 📁 Dataset
 
 Source: Kaggle
 Dataset Size: 5200 rows × 12 columns
-## 📂 Additional Resources
+
 
 - 📊 ##**Project Presentation:** [Movie Analysis Presentation](Movies Analytics.pptx)
 - 📈 ##**Dashboard File:** [Power BI Dashboard] (Movies Analysis Dashboard.pbix)
