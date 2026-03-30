@@ -1,5 +1,7 @@
 # 🎬 Movie Industry Analysis Dashboard
+
 <br>
+
 # 📊 Project Overview
 
 This project analyzes movie industry data to identify factors influencing box office success. The analysis focuses on understanding the relationship between genres, directors, ratings, budgets, and box-office collections to help movie production houses make better investment decisions.
